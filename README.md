@@ -32,7 +32,7 @@ GIF created with https://getkap.co/
 
 ## Notes
 
-Learning a new programming language always requires hard work and this is no different. To complete this project, a good portion of time was dedicated to reading documentation for the Swift programming language. 
+Learning a new programming language always requires hard work and this is no different. To complete this project, a good portion of my time was dedicated to reading documentation for the Swift programming language. 
 
 ## License
 
