@@ -32,7 +32,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Learning a new programming language always requires work and this is no different. To complete this project, a good portion of time was dedicated to reading documentation for the Swift programming language. 
+Learning a new programming language always requires hard work and this is no different. To complete this project, a good portion of time was dedicated to reading documentation for the Swift programming language. 
 
 ## License
 
